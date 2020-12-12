@@ -1,11 +1,8 @@
 ---
-name: "Generic workitem",
-description: "A description",
-title: "",
-type: "workitem"
-tags: [],
-assignees: [],
-links: []
+name: Workitem,
+description: A description,
+links: [previous](previousWorkitem.md)
+       [next](nextWorkitem.md)
 ---
 
 description and detail of work to be done
